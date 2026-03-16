@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bailbonds-orangecounty.com/sitemap.xml
+Sitemap: https://www.angelsbailbonds.com/sitemaps.xml
